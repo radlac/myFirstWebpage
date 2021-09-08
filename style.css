@@ -1,0 +1,71 @@
+nav {
+  
+    background: #333333;
+    margin: 0;
+   }
+  
+  
+  
+  nav ul {
+    list-style-type: none;
+    padding: 0;
+    justify-content: flex-end;
+    
+  }
+  
+  nav a {
+    color: #ff0099;
+    text-align: center;
+    display: block;
+    padding: 10px;
+  }
+  
+  nav ul {
+    display: flex;}
+  
+  .logo {
+    float: left;
+  }
+    
+  div {
+  background-image: url(https://www.toptal.com/designers/subtlepatterns/patterns/topography.png);
+  padding: 0;
+  padding-top: 60px;  
+  margin-left: 0;
+  width: 100%;
+  height: 100%; 
+  }
+  
+  
+  p{
+    font-family: courier;
+    margin-left: 10%;
+    margin-right:10%;
+    line-height:40px;
+  }
+  h3{
+    margin-top: 50px;
+    margin-left: 10%;
+    margin-right:10%;
+  }
+  
+  span{
+   color: #ff0099; 
+  }
+  h2{
+    text-align: center;
+    margin-top: 50px;
+  }
+  h1{
+    margin-left: 10%;
+    margin-right:10%;
+    font-family: 'Allison', cursive;
+    font-size: 60px;
+    
+  }
+  
+  h4{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 20px;
+  }
