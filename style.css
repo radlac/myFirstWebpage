@@ -20,12 +20,18 @@ nav {
     padding: 10px;
   }
   
+
+  img {
+    float: left;
+    margin: 2px;
+    size: 3px ;
+    text-align: center;
+  }
+
   nav ul {
     display: flex;}
   
-  .logo {
-    float: left;
-  }
+ 
     
   div {
   background-image: url(https://www.toptal.com/designers/subtlepatterns/patterns/topography.png);
