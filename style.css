@@ -23,9 +23,10 @@ nav {
 
   img {
     float: left;
-    margin: 2px;
-    size: 3px ;
-    text-align: center;
+    margin-left: 20px;
+    margin-top: 3px;
+   
+    
   }
 
   nav ul {
